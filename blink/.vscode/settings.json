@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/dennis/esp/esp-idf-v5.4",
+    "idf.toolsPath": "/Users/dennis/.espressif",
+    "idf.port": "/dev/tty.usbmodem1234561",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s3.cfg"
+    ]
+}
