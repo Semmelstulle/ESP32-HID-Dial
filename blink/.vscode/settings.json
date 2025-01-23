@@ -4,10 +4,7 @@
     "idf.toolsPath": "/Users/dennis/.espressif",
     "idf.port": "/dev/tty.usbmodem1234561",
     "idf.openOcdConfigs": [
-        "board/esp32s3-builtin.cfg"
-    ],
-    "idf.flashType": "JTAG",
-    "files.associations": {
-        "task.h": "c"
-    }
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s3.cfg"
+    ]
 }
